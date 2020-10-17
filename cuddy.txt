@@ -1,0 +1,10 @@
+mleko : 42
+jajka : 31
+smalec : 135
+dupa : 102
+kanapka : 45
+szyneczka : 102
+platki : 55
+awokado : 1
+chuj : 111
+chrystek : 286
